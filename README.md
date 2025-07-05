@@ -1,1 +1,1 @@
-# 1
+# ![alt text](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/refs/heads/main/image/_logo.svg)
