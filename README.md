@@ -20,3 +20,5 @@
   <a href="#credits">免费定制</a> •
   <a href="#license">服务协议</a>
 </p>
+
+![screenshot](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/main/image/review.gif)
