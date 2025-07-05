@@ -100,6 +100,9 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 
 - 感谢以上矿池在一定范围内提供了技术支持😊
 
+> [!IMPORTANT]  
+> 1
+
 ## 服务协议
 
 - RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
