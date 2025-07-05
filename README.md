@@ -100,7 +100,7 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 
 - 感谢以上矿池在一定范围内提供了技术支持😊
 
-> [!IMPORTANT]  
+> [!IMPORTANT](1)
 > 1
 
 ## 服务协议
