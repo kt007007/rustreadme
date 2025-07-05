@@ -25,7 +25,8 @@
 
 ## RustMinerSystem
 
-- RustMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
+> [!note]
+> RustMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
 
 - 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
 
@@ -39,7 +40,8 @@
 
 ## 安装RustMinerSystem
 
-RustMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
+> [!IMPORTANT]
+> RustMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
 
 ### WINDOWS
 
@@ -99,9 +101,6 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 - <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/antpool.png" alt="Logo" width="100">
 
 - 感谢以上矿池在一定范围内提供了技术支持😊
-
-> [!IMPORTANT](1)
-> 1
 
 ## 服务协议
 
