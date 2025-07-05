@@ -36,7 +36,70 @@
 - 如果您需要将设备接入至传统矿池, 请翻阅 [传统矿池代理](https://rustminersystem.gitbook.io/rustminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 - 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) 教程。
 
-  
+
+## 安装RustMinerSystem
+
+RustMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
+
+### WINDOWS
+
+1. 打开以下链接：
+3. https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+4. 找到最新版的RustMinerSystem程序文件, 点击之后等页面跳转完毕找到View raw点击即可下载。
+5. 双击启动下载的程序, 根据提示浏览器访问即可进入RustMinerSystem管理后台。
+7. 默认后台账号密码为 qzpm19kkx xloqslz913
+
+### Linux
+- 操作系统推荐使用Ubuntu
+- 复制运行以下shell指令以运行工具包
+
+```
+bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+```
+
+- 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
+
+```
+bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+```
+
+- 如果您是ARM架构处理器, 请使用以下命令安装
+
+```
+# ARM
+bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
+# ARMV7
+bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
+
+```
+
+- 成功运行后，您将看到以下菜单, 根据提示安装即可。
+
+![screenshot](https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/install.gif)
+
+### 加入聊天组
+
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
+
+<p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
+
+   </td>
+   </tr>
+   <tr>
+   <td>
+
+### 特别感谢
+
+- <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-logo-blue.png" alt="Logo" width="100">
+
+- <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/poolin.svg" alt="Logo" width="100">
+
+- <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/hd_logo.png" alt="Logo" width="100">
+
+- <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/antpool.png" alt="Logo" width="100">
+
+- 感谢以上矿池在一定范围内提供了技术支持😊
+
 ## 服务协议
 
 - RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
